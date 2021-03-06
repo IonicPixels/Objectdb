@@ -1,161 +1,161 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!-- SMG1/2 Object Database, written 3/3/2021 00:41:45 for Whitehole -->
+<!-- SMG1/2 Object Database, generated 10/27/2018 14:06:33 for Whitehole -->
 <database timestamp="1540641993">
-  
-<categories>
-        <category id="1">Planets</category>
-        <category id="2">Platforms</category>
-        <category id="3">Decorations</category>
-        <category id="4">Effects</category>
-        <category id="5">Skies</category>
-        <category id="6">Airs</category>
-        <category id="7">Enemies</category>
-        <category id="8">Bosses</category>
-        <category id="9">Items</category>
-        <category id="10">NPCs</category>
-        <category id="11">Destroyable</category>
-        <category id="12">Areas</category>
-        <category id="13">Controllers</category>
-        <category id="14">Deprecated/Useless</category>
-        <category id="15">Unused</category>
-	<category id="16">Custom</category>
-	<category id="17">Low-poly Planets</category>
-        <category id="200">Gravity</category>
-        <category id="201">Cameras &amp; Cutscenes</category>
-        <category id="210">Comet Observatory</category>
-        <category id="211">Starship Mario</category>
-        <category id="212">Minigames</category>
-        <category id="254">Other</category>
-        <category id="255">Uncategorized</category>
-</categories>
 
-<object id="2DGhostTowerPlanet">
-	<name>2DGhostTowerPlanet</name>
-	<flags games="2" needsPaths="0" known="1" complete="1" />
-	<category id="14" />
-	<preferredfile name="Obj" />
-	<notes></notes>
-	<files>/ObjectData/2DGhostTowerPlanet.arc</files>
-</object>
-  
-<object id="Abekobe2DMoveLift">
-	<name>Rightside Down: Wooden Platform</name>
-	<flags games="2" needsPaths="0" known="1" complete="1" />
-	<category id="2" />
-	<preferredfile name="MapParts" />
-	<notes>A wooden platform that can run on a path.</notes>
-	<files>/ObjectData/Abekobe2DMoveLift.arc</files>
-</object>
-  
-<object id="AbekobeCircleMoveLift">
-	<name>Rightside Down: Wooden Platform (Checkered)</name>
-	<flags games="2" needsPaths="0" known="1" complete="1" />
-	<category id="2" />
-	<preferredfile name="MapParts" />
-	<notes>A wooden platform with a green and brown checkerboard-pattern that can run on a path.</notes>
-	<files>/ObjectData/AbekobeCircleMoveLift.arc</files>
-</object>
-  
-<object id="AbekobeIntroducePlanet">
-	<name>Rightside Down: Starting Planet (Exterior)</name>
-	<flags games="2" needsPaths="0" known="1" complete="1" />
-	<category id="1" />
-	<preferredfile name="Obj" />
-	<notes>The house/mansion planet used at the start of Rightside Down Galaxy.</notes>
-	<files>/ObjectData/AbekobeIntroducePlanet.arc</files>
-</object>
-  
-<object id="AirBubble">
-        <name>Air Bubble</name>
-        <flags games="3" needsPaths="0" known="1" complete="1" />
-        <category id="9" />
-        <preferredfile name="Obj" />
-        <notes>A bubble that fills the air-meter if collected.</notes>
-        <files>/ObjectData/AirBubble.arc</files>
-        <field id="0" type="int" name="Useless" values="" notes="" />
-</object>
+	<categories>
+		<category id="1">Planets</category>
+        	<category id="2">Platforms</category>
+        	<category id="3">Decorations</category>
+        	<category id="4">Effects</category>
+        	<category id="5">Skies</category>
+        	<category id="6">Airs</category>
+        	<category id="7">Enemies</category>
+        	<category id="8">Bosses</category>
+        	<category id="9">Items</category>
+        	<category id="10">NPCs</category>
+        	<category id="11">Destroyable</category>
+        	<category id="12">Areas</category>
+        	<category id="13">Controllers</category>
+        	<category id="14">Deprecated/Useless</category>
+        	<category id="15">Unused</category>
+    		<category id="16">Custom</category>
+    		<category id="17">Low-poly Planets</category>
+        	<category id="200">Gravity</category>
+        	<category id="201">Cameras &amp; Cutscenes</category>
+        	<category id="210">Comet Observatory</category>
+        	<category id="211">Starship Mario</category>
+        	<category id="212">Minigames</category>
+        	<category id="254">Other</category>
+        	<category id="255">Uncategorized</category>
+	</categories>
 
-<object id="AirBubbleGenerator">
-        <name>Air Bubble Spawner</name>
-        <flags games="3" needsPaths="0" known="1" complete="1" />
-        <category id="9" />
-        <preferredfile name="Obj" />
-        <notes>An object that spawns air bubbles that refill the air-meter if collected.</notes>
-        <files>/ObjectData/AirBubbleGenerator.arc</files>
-        <field id="0" type="int" name="Speed" values="" notes="" />
-        <field id="1" type="int" name="Bubble Pop Delay" values="" notes="" />
-</object>
-  
-<object id="AncientCage">
-        <name>Clockwork Ruins: Cage (Gravity Planet)</name>
-        <flags games="2" needsPaths="0" known"1" complete="1" />
-        <category id="254" />
-        <preferred file name="Obj" />
-        <notes>The cage seen on the gravity planet in Clockwork Ruins Galaxy.</notes>
-        <files>/ObjectData/AncientCage.arc</files>
-        <field id="4" type="int" name="Useless" values="" notes="" />
-</object>
-  
-<object id="AquariumPlanetA">
-        <name>Cosmic Cove: Underwater Cave</name>
-        <flags games="2" needsPaths="0" known="1" complete="1" />
-        <category id="1" />
-        <preferredfile name=Obj />
-        <notes>The underwater cave planet from Cosmic Cove Galaxy.</notes>
-        <files>/ObjectData/AquariumPlanetA.arc</files>
-</object>
-  
-<object id="AquariumPlanetB">
-        <name>Cosmic Cove: Jellyfish Planet</name>
-        <flags games="2" needsPaths="0" known="1" complete="1" />
-        <category id="1" />
-        <preferredfile name="Obj" />
-        <notes>The planet that contains a jellyfish, mines and the key in Cosmic Cove Galaxy.</notes>
-        <files>/ObjectData/AquariumPlanetB.arc</files>
-</object>
+	<object id="2DGhostTowerPlanet">
+		<name>2DGhostTowerPlanet</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="14" />
+		<preferredfile name="Obj" />
+		<notes></notes>
+		<files>/ObjectData/2DGhostTowerPlanet.arc</files>
+	</object>
 
-<object id="AquariumRailMoveObj">
-	<name>Cosmic Cove: Underwater Gate</name>
-	<flags games="2" needsPaths="1" known="1" complete="1" />
-	<category id="3" />
-	<preferredfile name="MapParts" />
-	<notes>The underwater gate used in the second mission of Cosmic Cove Galaxy. (This object requires a path to function.)</notes>
-	<files>/ObjectData/AquariumRailMoveObj.arc</files>
-</object>
+	<object id="Abekobe2DMoveLift">
+		<name>Rightside Down: Wooden Platform</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="2" />
+		<preferredfile name="MapParts" />
+		<notes>A wooden platform that can run on a path.</notes>
+		<files>/ObjectData/Abekobe2DMoveLift.arc</files>
+	</object>
 
-<object id="AreaMoveSphere">
-	<name>Move Area (Sphere)</name>
-	<flags games="3" needsPaths="0" known"1" complete="1" />
-	<category id="12" />
-	<preferredfile name="AreaObj" />
-	<notes>This area pushes the character in a certain direction at the speed defined in obj_arg0.</notes>
-	<files></files>
-	<field id="0" type="int" name="Speed" values="" notes="" />
-</object>
-	
-<object id="ArrowBoard">
-	<name>Arrow Sign"</name>
-	<flags games="3" needsPaths="0" known="1" complete="1" />
-	<category id="3" />
-	<preferrablefile name="Obj" />
-	<notes>A blue arrow with a red outline.</notes>
-	<files>ObjectData/ArrowBoard.arc</files>
-</object>
+	<object id="AbekobeCircleMoveLift">
+		<name>Rightside Down: Wooden Platform (Checkered)</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="2" />
+		<preferredfile name="MapParts" />
+		<notes>A wooden platform with a green and brown checkerboard-pattern that can run on a path.</notes>
+		<files>/ObjectData/AbekobeCircleMoveLift.arc</files>
+	</object>
 
-<object id="ArrowSwitch">
-	<name>Gravity-Arrow Switch</name>
-	<flags games="3" needsPaths="0" known="1" complete"1" />
-	<category id="13" />
-	<preferredfile name="Obj" />
-	<notes>A green arrow-shaped switch; usually used for changing the direction of a planet's gravity. Activates the event that is assigned to its SW_A setting.</notes>
-	<files>/ObjectData/ArrowSwitch.arc</files>
-	<field id="0" type="list" name="Direction" values="-1 = 180°, 0 = 90° to right, 1 = 90° to left" notes="" />
-	<field id="1" type="bool" name="One time only?" values="0 = true, -1 = false" notes="" />
-	<files id="2" type="int" name="Shadow distance" values="" notes="" />
-</object>
+	<object id="AbekobeIntroducePlanet">
+		<name>Rightside Down: Starting Planet (Exterior)</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes>The house/mansion planet used at the start of Rightside Down Galaxy.</notes>
+		<files>/ObjectData/AbekobeIntroducePlanet.arc</files>
+	</object>
 
-<object id="ArrowSwitchMulti">
-	<name>Gravity-Arrow Switch (Multi-Use)</name>
+	<object id="AirBubble">
+		<name>Air Bubble</name>
+		<flags games="3" needsPaths="0" known="1" complete="1" />
+		<category id="9" />
+		<preferredfile name="Obj" />
+		<notes>A bubble that fills the air-meter if collected.</notes>
+		<files>/ObjectData/AirBubble.arc</files>
+		<field id="0" type="int" name="Useless" values="" notes="" />
+	</object>
+
+	<object id="AirBubbleGenerator">
+		<name>Air Bubble Spawner</name>
+		<flags games="3" needsPaths="0" known="1" complete="1" />
+		<category id="9" />
+		<preferredfile name="Obj" />
+		<notes>An object that spawns air bubbles that refill the air-meter if collected.</notes>
+		<files>/ObjectData/AirBubbleGenerator.arc</files>
+		<field id="0" type="int" name="Speed" values="" notes="" />
+		<field id="1" type="int" name="Bubble Pop Delay" values="" notes="" />
+	</object>
+
+	<object id="AncientCage">
+		<name>Clockwork Ruins: Cage (Gravity Planet)</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="254" />
+		<preferredfile name="Obj" />
+		<notes>The cage seen on the gravity planet in the Clockwork Ruins Galaxy.</notes>
+		<files>/ObjectData/AncientCage.arc</files>
+		<field id="4" type="int" name="Useless" values="" notes="" />
+	</object>
+
+	<object id="AquariumPlanetA">
+		<name>Cosmic Cove: Underwater Cave</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes>The underwater cave planet from Cosmic Cove Galaxy.</notes>
+		<files>/ObjectData/AquariumPlanetA.arc</files>
+	</object>
+
+	<object id="AquariumPlanetB">
+		<name>Cosmic Cove: Jellyfish Planet</name>
+		<flags games="2" needsPaths="0" known="1" complete="1" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes>The planet that contains a jellyfish, mines and the key in Cosmic Cove Galaxy.</notes>
+		<files>/ObjectData/AquariumPlanetB.arc</files>
+	</object>
+
+	<object id="AquariumRailMoveObj">
+		<name>Cosmic Cove: Underwater Gate</name>
+		<flags games="2" needsPaths="1" known="1" complete="1" />
+		<category id="3" />
+		<preferredfile name="MapParts" />
+		<notes>The underwater gate used in the second mission of Cosmic Cove Galaxy. (This object requires a path to function.)</notes>
+		<files>/ObjectData/AquariumRailMoveObj.arc</files>
+	</object>
+
+	<object id="AreaMoveSphere">
+		<name>Move Area (Sphere)</name>
+		<flags games="3" needsPaths="0" known="1" complete="1" />
+		<category id="12" />
+		<preferredfile name="AreaObj" />
+		<notes>This area pushes the character in a certain direction at the speed defined in obj_arg0.</notes>
+		<files></files>
+		<field id="0" type="int" name="Speed" values="" notes="" />
+	</object>
+
+	<object id="ArrowBoard">
+		<name>Arrow Sign</name>
+		<flags games="3" needsPaths="0" known="1" complete="1" />
+		<category id="3" />
+		<preferredfile name="Obj" />
+		<notes>A blue arrow with a red outline.</notes>
+		<files>/ObjectData/ArrowBoard.arc</files>
+	</object>
+
+	<object id="ArrowSwitch">
+		<name>Gravity-Arrow Switch</name>
+		<flags games="3" needsPaths="0" known="1" complete="1" />
+		<category id="13" />
+		<preferredfile name="Obj" />
+		<notes>A green arrow-shaped switch; usually used for changing the direction of a planet's gravity. Activates the event that is assigned to its SW_A setting.</notes>
+		<files>/ObjectData/ArrowSwitch.arc</files>
+		<field id="0" type="list" name="Direction" values="-1 = 180°, 0 = 90° to right, 1 = 90° to left" notes="" />
+		<field id="1" type="bool" name="One time only?" values="0 = true, -1 = false" notes="" />
+		<field id="2" type="int" name="Shadow distance" values="" notes="" />
+	</object>
+
+	<object id="ArrowSwitchMulti">
+		<name>Gravity-Arrow Switch (Multi-Use)</name>
 		<flags games="1" needsPaths="0" known="1" complete="1" />
 		<category id="254" />
 		<preferredfile name="Obj" />
