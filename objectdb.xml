@@ -14068,171 +14068,171 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniBattleShipGalaxy">
-		<name>MiniBattleShipGalaxy</name>
+		<name>Battlerock Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniBreakDownPlanetGalaxy">
-		<name>MiniBreakDownPlanetGalaxy</name>
+		<name>Hurry-Scurry Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniCannonFleetGalaxy">
-		<name>MiniCannonFleetGalaxy</name>
+		<name>Dreadnought Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniCosmosGardenGalaxy">
-		<name>MiniCosmosGardenGalaxy</name>
+		<name>Gusty Garden Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniCubeBubbleExLv1Galaxy">
-		<name>MiniCubeBubbleExLv1Galaxy</name>
+		<name>Bubble Breeze Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniDarkRoomGalaxy">
-		<name>MiniDarkRoomGalaxy</name>
+		<name>Matter Splatter Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniEggStarGalaxy">
-		<name>MiniEggStarGalaxy</name>
+		<name>Good Egg Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniFactoryGalaxy">
-		<name>MiniFactoryGalaxy</name>
+		<name>Toy Time Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniFlipPanelExGalaxy">
-		<name>MiniFlipPanelExGalaxy</name>
+		<name>Flipswitch Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniFloaterOtaKingGalaxy">
-		<name>MiniFloaterOtaKingGalaxy</name>
+		<name>Bowser Jr.'s Lava Reactor Galaxy Reactor Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHeavenlyBeachGalaxy">
-		<name>The Opposite of "Hell Icon"</name>
+		<name>Beach Bowl Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHellProminenceGalaxy">
-		<name>Hell Icon</name>
+		<name>Melty Molten Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHoneyBeeExGalaxy">
-		<name>MiniHoneyBeeExGalaxy</name>
+		<name>Honeyclimb Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHoneyBeeKingdomGalaxy">
-		<name>MiniHoneyBeeKingdomGalaxy</name>
+		<name>Honeyhive Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniIceVolcanoGalaxy">
-		<name>MiniIceVolcanoGalaxy</name>
+		<name>Freezeflame Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaBattleVs1Galaxy">
-		<name>MiniKoopaBattleVs1Galaxy</name>
+		<name>Bowser's Star Reactor Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaBattleVs2Galaxy">
-		<name>MiniKoopaBattleVs2Galaxy</name>
+		<name>Bowser's Dark Matter Plant Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaBattleVs3Galaxy">
-		<name>MiniKoopaBattleVs3Galaxy</name>
+		<name>Bowser's Galaxy Reactor Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaJrShipLv1Galaxy">
-		<name>MiniKoopaJrShipLv1Galaxy</name>
+		<name>Bowser Jr's Airship Armada Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -14275,7 +14275,7 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniMechaKoopaPlanet">
-		<name>MiniMechaKoopaPlanet</name>
+		<name>Toy Time: Mechakoopa Planet</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
 		<category id="255" />
 		<preferredfile name="Obj" />
@@ -14284,36 +14284,36 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniOceanFloaterLandGalaxy">
-		<name>MiniOceanFloaterLandGalaxy</name>
+		<name>Buoy Base Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniOceanPhantomCaveGalaxy">
-		<name>MiniOceanPhantomCaveGalaxy</name>
+		<name>Deep Dark Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniOceanRingGalaxy">
-		<name>MiniOceanRingGalaxy</name>
+		<name>Sea Slide Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniPhantomGalaxy">
-		<name>MiniPhantomGalaxy</name>
+		<name>Ghostly Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -14356,63 +14356,63 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniReverseKingdomGalaxy">
-		<name>MiniReverseKingdomGalaxy</name>
+		<name>Goldleaf Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniSandClockGalaxy">
-		<name>MiniSandClockGalaxy</name>
+		<name>Dusty Dune Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniSkullSharkGalaxy">
-		<name>MiniSkullSharkGalaxy</name>
+		<name>Bonefin Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniStarDustGalaxy">
-		<name>MiniStarDustGalaxy</name>
+		<name>Space Junk Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniSurfingLv1Galaxy">
-		<name>MiniSurfingLv1Galaxy</name>
+		<name>Loopdeeloop Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniTamakoroExLv1Galaxy">
-		<name>MiniTamakoroExLv1Galaxy</name>
+		<name>Rolling Green Galaxy Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniTriLegLv1Galaxy">
-		<name>MiniTriLegLv1Galaxy</name>
+		<name>Bowser Jr.'s Robot Reactor Icon</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="21" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
