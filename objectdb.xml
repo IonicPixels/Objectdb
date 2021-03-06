@@ -28,40 +28,40 @@
 </categories>
 
 <object id="2DGhostTowerPlanet">
-		    <name>2DGhostTowerPlanet</name>
-		    <flags games="2" needsPaths="0" known="1" complete="1" />
-		    <category id="14" />
-		    <preferredfile name="Obj" />
-		    <notes></notes>
-		    <files>/ObjectData/2DGhostTowerPlanet.arc</files>
+	<name>2DGhostTowerPlanet</name>
+	<flags games="2" needsPaths="0" known="1" complete="1" />
+	<category id="14" />
+	<preferredfile name="Obj" />
+	<notes></notes>
+	<files>/ObjectData/2DGhostTowerPlanet.arc</files>
 </object>
   
 <object id="Abekobe2DMoveLift">
-		    <name>Rightside Down: Wooden Platform</name>
-		    <flags games="2" needsPaths="0" known="1" complete="1" />
-		    <category id="2" />
-		    <preferredfile name="MapParts" />
-		    <notes>A wooden platform that can run on a path.</notes>
-		    <files>/ObjectData/Abekobe2DMoveLift.arc</files>
+	<name>Rightside Down: Wooden Platform</name>
+	<flags games="2" needsPaths="0" known="1" complete="1" />
+	<category id="2" />
+	<preferredfile name="MapParts" />
+	<notes>A wooden platform that can run on a path.</notes>
+	<files>/ObjectData/Abekobe2DMoveLift.arc</files>
 </object>
   
 <object id="AbekobeCircleMoveLift">
-		    <name>Rightside Down: Wooden Platform (Checkered)</name>
-		    <flags games="2" needsPaths="0" known="1" complete="1" />
-		    <category id="2" />
-		    <preferredfile name="MapParts" />
-		    <notes>A wooden platform with a green and brown checkerboard-pattern that can run on a path.</notes>
-		    <files>/ObjectData/AbekobeCircleMoveLift.arc</files>
+	<name>Rightside Down: Wooden Platform (Checkered)</name>
+	<flags games="2" needsPaths="0" known="1" complete="1" />
+	<category id="2" />
+	<preferredfile name="MapParts" />
+	<notes>A wooden platform with a green and brown checkerboard-pattern that can run on a path.</notes>
+	<files>/ObjectData/AbekobeCircleMoveLift.arc</files>
 </object>
   
 <object id="AbekobeIntroducePlanet">
-		    <name>Rightside Down: Starting Planet (Exterior)</name>
-		    <flags games="2" needsPaths="0" known="1" complete="1" />
-		    <category id="1" />
-		    <preferredfile name="Obj" />
-		    <notes>The house/mansion planet used at the start of Rightside Down Galaxy.</notes>
-		    <files>/ObjectData/AbekobeIntroducePlanet.arc</files>
-	</object>
+	<name>Rightside Down: Starting Planet (Exterior)</name>
+	<flags games="2" needsPaths="0" known="1" complete="1" />
+	<category id="1" />
+	<preferredfile name="Obj" />
+	<notes>The house/mansion planet used at the start of Rightside Down Galaxy.</notes>
+	<files>/ObjectData/AbekobeIntroducePlanet.arc</files>
+</object>
   
 <object id="AirBubble">
         <name>Air Bubble</name>
