@@ -17,9 +17,13 @@
         	<category id="12">Areas</category>
         	<category id="13">Controllers</category>
         	<category id="14">Deprecated/Useless</category>
-        	<category id="15">Unused</category>
-    		<category id="16">Custom</category>
-    		<category id="17">Low-poly Planets</category>
+        	<category id="15">SMG1 Unused</category>
+		<category id="16">SMG2 Unused</category>
+    		<category id="17">Custom</category>
+    		<category id="18">Low-poly Planets</category>
+		<category id="19">Switches</category>
+		<category id="20"Megaleg</category>
+		<category id="21"Galaxy Icons</category>
         	<category id="200">Gravity</category>
         	<category id="201">Cameras &amp; Cutscenes</category>
         	<category id="210">Comet Observatory</category>
