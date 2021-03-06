@@ -18,6 +18,8 @@
         <category id="13">Controllers</category>
         <category id="14">Deprecated/Useless</category>
         <category id="15">Unused</category>
+	<category id="16">Custom</category>
+	<category id="17">Low-poly Planets</category>
         <category id="200">Gravity</category>
         <category id="201">Cameras &amp; Cutscenes</category>
         <category id="210">Comet Observatory</category>
@@ -110,4 +112,44 @@
         <preferredfile name="Obj" />
         <notes>The planet that contains a jellyfish, mines and the key in Cosmic Cove Galaxy.</notes>
         <files>/ObjectData/AquariumPlanetB.arc</files>
+</object>
+
+<object id="AquariumRailMoveObj">
+	<name>Cosmic Cove: Underwater Gate</name>
+	<flags games="2" needsPaths="1" known="1" complete="1" />
+	<category id="3" />
+	<preferredfile name="MapParts" />
+	<notes>The underwater gate used in the second mission of Cosmic Cove Galaxy. (This object requires a path to function.)</notes>
+	<files>/ObjectData/AquariumRailMoveObj.arc</files>
+</object>
+
+<object id="AreaMoveSphere">
+	<name>Move Area (Sphere)</name>
+	<flags games="3" needsPaths="0" known"1" complete="1" />
+	<category id="12" />
+	<preferredfile name="AreaObj" />
+	<notes>This area pushes the character in a certain direction at the speed defined in obj_arg0.</notes>
+	<files></files>
+	<field id="0" type="int" name="Speed" values="" notes="" />
+</object>
+	
+<object id="ArrowBoard">
+	<name>Arrow Sign"</name>
+	<flags games="3" needsPaths="0" known="1" complete="1" />
+	<category id="3" />
+	<preferrablefile name="Obj" />
+	<notes>A blue arrow with a red outline.</notes>
+	<files>ObjectData/ArrowBoard.arc</files>
+</object>
+
+<object id="ArrowSwitch">
+	<name>Gravity-Arrow Switch</name>
+	<flags games="3" needsPaths="0" known="1" complete"1" />
+	<category id="13" />
+	<preferredfile name="Obj" />
+	<notes>A green arrow-shaped switch; usually used for changing the direction of a planet's gravity. Activates the event that is assigned to its SW_A setting.</notes>
+	<files>/ObjectData/ArrowSwitch.arc</files>
+	<field id="0" type="list" name="Direction" values="-1 = 180°, 0 = 90° to right, 1 = 90° to left" notes="" />
+	<field id="1" type="bool" name="One time only?" values="0 = true, -1 = false" notes="" />
+	<files id="2" type="int" name="Shadow distance" values="" notes="" />
 </object>
