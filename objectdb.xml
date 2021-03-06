@@ -7075,10 +7075,19 @@ TODO: Does it have args?</notes>
 		<files>/ObjectData/FloaterLandPartsFrame.arc</files>
 	</object>
 
+	<object id="FloaterLandPlanet">
+		<name>Buoy Base: Fortress Planet</name>
+		<flags games="1" needsPaths="0" known="1" complete="1" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes>The large fortress planet used in Buoy Base Galaxy.</notes>
+		<files>/ObjectData/FloaterLandPlanet.arc</files>
+	</object>
+	
 	<object id="FloaterLandPlanetLow">
 		<name>Buoy Base: Fortress Planet</name>
-		<flags games="3" needsPaths="0" known="1" complete="1" />
-		<category id="1" />
+		<flags games="1" needsPaths="0" known="1" complete="1" />
+		<category id="17" />
 		<preferredfile name="Obj" />
 		<notes>The large fortress planet used in Buoy Base Galaxy.</notes>
 		<files>/ObjectData/FloaterLandPlanet.arc</files>
@@ -20109,28 +20118,55 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 		<files>/ObjectData/StarDustStepB.arc</files>
 	</object>
 
-	<object id="StarEggRoadEggPlanetALow">
+	<object id="StarEggRoadEggPlanetA">
 		<name>StarEggRoadEggPlanetA</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes></notes>
+		<files></files>
+	</object>
+	
+	<object id="StarEggRoadEggPlanetALow">
+		<name>StarEggRoadEggPlanetALow</name>
+		<flags games="1" needsPaths="0" known="0" complete="0" />
+		<category id="17" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
-	<object id="StarEggRoadEggPlanetBLow">
+	<object id="StarEggRoadEggPlanetB">
 		<name>StarEggRoadEggPlanetB</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes></notes>
+		<files></files>
+	</object>
+	
+	<object id="StarEggRoadEggPlanetBLow">
+		<name>StarEggRoadEggPlanetBLow</name>
+		<flags games="1" needsPaths="0" known="0" complete="0" />
+		<category id"17" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
-	<object id="StarEggRoadEggPlanetCLow">
+	<object id="StarEggRoadEggPlanetC">
 		<name>StarEggRoadEggPlanetC</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes></notes>
+		<files></files>
+	</object>
+	
+	<object id="StarEggRoadEggPlanetCLow">
+		<name>StarEggRoadEggPlanetCLow</name>
+		<flags games="1" needsPaths="0" known="0" complete="0" />
+		<category id="17" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20139,16 +20175,34 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarEggRoadEggPlanetD">
 		<name>StarEggRoadEggPlanetD</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes></notes>
+		<files></files>
+	</object>
+	
+	<object id="StarEggRoadEggPlanetDLow">
+		<name>StarEggRoadEggPlanetDLow</name>
+		<flags games="1" needsPaths="0" known="0" complete="0" />
+		<category id="17" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
-	<object id="StarEggRoadPlanetLow">
+	<object id="StarEggRoadPlanet">
 		<name>StarEggRoadPlanet</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="1" />
+		<preferredfile name="Obj" />
+		<notes></notes>
+		<files></files>
+	</object>
+	
+	<object id="StarEggRoadPlanetLow">
+		<name>StarEggRoadPlanetLow</name>
+		<flags games="1" needsPaths="0" known="0" complete="0" />
+		<category id="17" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20166,7 +20220,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarManFort">
 		<name>StarManFort</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="255" />
+		<category id="15" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
