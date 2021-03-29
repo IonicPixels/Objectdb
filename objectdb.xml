@@ -3,34 +3,27 @@
 <database timestamp="1540641993">
 
 	<categories>
+		<category id="255">Uncategorized</category>
 		<category id="1">Planets</category>
-        	<category id="2">Platforms</category>
-        	<category id="3">Decorations</category>
-        	<category id="4">Effects</category>
-        	<category id="5">Skies</category>
-        	<category id="6">Airs</category>
-        	<category id="7">Enemies</category>
-        	<category id="8">Bosses</category>
-        	<category id="9">Items</category>
-        	<category id="10">NPCs</category>
-        	<category id="11">Destroyable</category>
-        	<category id="12">Areas</category>
-        	<category id="13">Controllers</category>
-        	<category id="14">Deprecated/Useless</category>
-        	<category id="15">SMG1 Unused</category>
-		<category id="16">SMG2 Unused</category>
-    		<category id="17">Custom</category>
-    		<category id="18">Low-poly Planets</category>
-		<category id="19">Switches</category>
-		<category id="20"Megaleg</category>
-		<category id="21"Galaxy Icons</category>
-        	<category id="200">Gravity</category>
-        	<category id="201">Cameras &amp; Cutscenes</category>
-        	<category id="210">Comet Observatory</category>
-        	<category id="211">Starship Mario</category>
-        	<category id="212">Minigames</category>
-        	<category id="254">Other</category>
-        	<category id="255">Uncategorized</category>
+		<category id="2">Platforms</category>
+		<category id="5">Skies</category>
+		<category id="6">Airs</category>
+		<category id="3">Decorations</category>
+		<category id="4">Effects</category>
+		<category id="7">Enemies</category>
+		<category id="8">Bosses</category>
+		<category id="10">NPCs</category>
+		<category id="9">Items</category>
+		<category id="11">Destroyable</category>
+		<category id="12">Areas</category>
+		<category id="200">Gravity</category>
+		<category id="201">Cameras &amp; Cutscenes</category>
+		<category id="13">Controllers</category>
+		<category id="210">Comet Observatory</category>
+		<category id="211">Starship Mario</category>
+		<category id="212">Minigames</category>
+		<category id="254">Other</category>
+		<category id="14">Deprecated / Useless</category>
 	</categories>
 
 	<object id="2DGhostTowerPlanet">
@@ -120,7 +113,7 @@
 
 	<object id="AquariumRailMoveObj">
 		<name>Cosmic Cove: Underwater Gate</name>
-		<flags games="2" needsPaths="1" known="1" complete="1" />
+		<flags games="2" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="MapParts" />
 		<notes>The underwater gate used in the second mission of Cosmic Cove Galaxy. (This object requires a path to function.)</notes>
@@ -2875,7 +2868,7 @@
 		<files></files>
 	</object>
 
-	<object id="BroadBeanCrowdPlanetLow">
+	<object id="BroadBeanCrowdPlanet">
 		<name>Gusty Garden: Bean Planets</name>
 		<flags games="1" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -2902,7 +2895,7 @@
 		<files>/ObjectData/BroadBeanMoveStepB.arc</files>
 	</object>
 
-	<object id="BroadBeanPlanetALow">
+	<object id="BroadBeanPlanetA">
 		<name>Good Egg: Bean Planet (E3)</name>
 		<flags games="1" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -2911,7 +2904,7 @@
 		<files>/ObjectData/BroadBeanPlanetA.arx</files>
 	</object>
 
-	<object id="BroadBeanPlanetBLow">
+	<object id="BroadBeanPlanetB">
 		<name>Good Egg: Bean Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -2920,7 +2913,7 @@
 		<files>/ObjectData/BroadBeanPlanetB.arc</files>
 	</object>
 
-	<object id="BroadBeanPlanetCLow">
+	<object id="BroadBeanPlanetC">
 		<name>Good Egg: Block-Climb Planet</name>
 		<flags games="1" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -2929,7 +2922,7 @@
 		<files>/ObjectData/BroadBeanPlanetC.arc</files>
 	</object>
 
-	<object id="BroadBeanPlanetDLow">
+	<object id="BroadBeanPlanetD">
 		<name>Gusty Garden: Bean Planet</name>
 		<flags games="1" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -5707,17 +5700,17 @@ TODO: Does it have args?</notes>
 		<field id="2" type="int" name="Unknown" values="" notes="" />
 	</object>
 
-	<object id="DinoPackunBattleLv2PlanetLow">
+	<object id="DinoPackunBattleLv2Planet">
 		<name>Fiery Dino Piranha Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
 		<preferredfile name="Obj" />
-		<notes>The planet where Fiery Dino Piranha is fought in Hell Galaxy.</notes>
+		<notes>The planet where Fiery Dino Piranha is fought in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/DinoPackunBattleLv2Planet.arc
 /ObjectData/DinoPackunBattleLv2PlanetLow.arc</files>
 	</object>
 
-	<object id="DinoPackunBattlePlanetLow">
+	<object id="DinoPackunBattlePlanet">
 		<name>Dino Piranha Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -5746,7 +5739,7 @@ TODO: Does it have args?</notes>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="8" />
 		<preferredfile name="Obj" />
-		<notes>The boss fought at the end of the third mission of Hell Galaxy.</notes>
+		<notes>The boss fought at the end of the third mission of Melty Molten Galaxy.</notes>
 		<files>/ObjectData/DinoPackun2.arc
 /ObjectData/DinoPackunDemoPosition.arc
 /ObjectData/DinoPackunEgg.arc
@@ -6332,11 +6325,11 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="ExterminateMerameraPlanet">
-		<name>Hell: Lil' Burn Planet (Unfinished)</name>
+		<name>Melty Molten: Lil' Burn Planet (Unfinished)</name>
 		<flags games="1" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
 		<preferredfile name="Obj" />
-		<notes>An unfinished planet that would have been used in the Hell Galaxy.</notes>
+		<notes>An unfinished planet that would have been used in the Melty Molten Galaxy.</notes>
 		<files>/ObjectData/ExterminateMerameraPlanet.arc</files>
 	</object>
 
@@ -7081,17 +7074,8 @@ TODO: Does it have args?</notes>
 
 	<object id="FloaterLandPlanet">
 		<name>Buoy Base: Fortress Planet</name>
-		<flags games="1" needsPaths="0" known="1" complete="1" />
+		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
-		<preferredfile name="Obj" />
-		<notes>The large fortress planet used in Buoy Base Galaxy.</notes>
-		<files>/ObjectData/FloaterLandPlanet.arc</files>
-	</object>
-	
-	<object id="FloaterLandPlanetLow">
-		<name>Buoy Base: Fortress Planet</name>
-		<flags games="1" needsPaths="0" known="1" complete="1" />
-		<category id="17" />
 		<preferredfile name="Obj" />
 		<notes>The large fortress planet used in Buoy Base Galaxy.</notes>
 		<files>/ObjectData/FloaterLandPlanet.arc</files>
@@ -7560,7 +7544,7 @@ TODO: Does it have args?</notes>
 		<files>/ObjectData/FreezeVolcanoMagma.arc</files>
 	</object>
 
-	<object id="FruitPeelPlanetLow">
+	<object id="FruitPeelPlanet">
 		<name>Good Egg: Fruit Peel Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
@@ -9025,7 +9009,7 @@ TODO: Does it have args?</notes>
 
 	<object id="GreenStar">
 		<name>Green Star</name>
-		<flags games="3" needsPaths="0" known="1" complete="0" />
+		<flags games="2" needsPaths="0" known="1" complete="0" />
 		<category id="9" />
 		<preferredfile name="Obj" />
 		<notes>A green Power Star that appears after collecting 120 Stars.</notes>
@@ -12322,11 +12306,11 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaBallRisingPlanet">
-		<name>Hell: Lava Tide Planet</name>
+		<name>Melty Molten: Lava Tide Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
 		<preferredfile name="Obj" />
-		<notes>The planet used for the secret Star mission in Hell Galaxy.</notes>
+		<notes>The planet used for the secret Star mission in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaBallRisingPlanet.arc</files>
 	</object>
 
@@ -12376,11 +12360,11 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaBlackUFO">
-		<name>Hell: Background UFO Ship</name>
+		<name>Melty Molten: Background UFO Ship</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A destroyed UFO used in the background of the first mission of Hell Galaxy.</notes>
+		<notes>A destroyed UFO used in the background of the first mission of Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaBlackUFO.arc</files>
 	</object>
 
@@ -12403,11 +12387,11 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaBreakRockA">
-		<name>Hell: Tipping Platform A (Lava Spire Planet)</name>
+		<name>Melty Molten: Tipping Platform A (Lava Spire Planet)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="Obj" />
-		<notes>A rock platform used on the lava spire planet in Hell Galaxy. (This object requires an SW_A switch to function.)</notes>
+		<notes>A rock platform used on the lava spire planet in Melty Molten Galaxy. (This object requires an SW_A switch to function.)</notes>
 		<files>/ObjectData/LavaBreakRockA.arc</files>
 	</object>
 
@@ -12490,20 +12474,20 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaFallDownColumnA">
-		<name>Hell: Rock Columns A (Lava Spire Planet)</name>
+		<name>Melty Molten: Rock Columns A (Lava Spire Planet)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A set of columns used on the lava spire planet in Hell Galaxy. (This object requires an SW_A switch to function.)</notes>
+		<notes>A set of columns used on the lava spire planet in Melty Molten Galaxy. (This object requires an SW_A switch to function.)</notes>
 		<files>/ObjectData/LavaFallDownColumnA.arc</files>
 	</object>
 
 	<object id="LavaFallDownColumnB">
-		<name>Hell: Rock Columns B (Lava Spire Planet)</name>
+		<name>Melty Molten: Rock Columns B (Lava Spire Planet)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A set of columns used on the lava spire planet in Hell Galaxy. (This object requires an SW_A switch to function.)</notes>
+		<notes>A set of columns used on the lava spire planet in Melty Molten Galaxy. (This object requires an SW_A switch to function.)</notes>
 		<files>/ObjectData/LavaFallDownColumnB.arc</files>
 	</object>
 
@@ -12517,38 +12501,38 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaFloatingStepA">
-		<name>Hell: Sinking Platform (Purple)</name>
+		<name>Melty Molten: Sinking Platform (Purple)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A purple platform that sinks when Mario/Luigi steps onto it; used in Hell Galaxy. (This platform is green in SMG2; used in Shiverburn Galaxy.)</notes>
+		<notes>A purple platform that sinks when Mario/Luigi steps onto it; used in Melty Molten Galaxy. (This platform is green in SMG2; used in Shiverburn Galaxy.)</notes>
 		<files>/ObjectData/LavaFloatingStepA.arc</files>
 	</object>
 
 	<object id="LavaFloatingStepB">
-		<name>Hell: Sinking Platform (Short Blue)</name>
+		<name>Melty Molten: Sinking Platform (Short Blue)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A blue platform that sinks when Mario/Luigi steps onto it; used in Hell Galaxy. (This platform is slightly smaller in SMG2.)</notes>
+		<notes>A blue platform that sinks when Mario/Luigi steps onto it; used in Melty Molten Galaxy. (This platform is slightly smaller in SMG2.)</notes>
 		<files>/ObjectData/LavaFloatingStepB.arc</files>
 	</object>
 
 	<object id="LavaFloatingStepC">
-		<name>Hell: Sinking Platform (Tall Blue)</name>
+		<name>Melty Molten: Sinking Platform (Tall Blue)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A tall blue platform that sinks when Mario/Luigi steps onto it; used in Hell Galaxy.</notes>
+		<notes>A tall blue platform that sinks when Mario/Luigi steps onto it; used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaFloatingStepC.arc</files>
 	</object>
 
 	<object id="LavaFloatingStepD">
-		<name>Hell: Sinking Platform (Round Blue)</name>
+		<name>Melty Molten: Sinking Platform (Round Blue)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A tall blue platform with rounded edges that sinks when Mario/Luigi steps onto it; used in Hell Galaxy.</notes>
+		<notes>A tall blue platform with rounded edges that sinks when Mario/Luigi steps onto it; used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaFloatingStepD.arc</files>
 	</object>
 
@@ -12601,12 +12585,12 @@ TODO: Does it have args?</notes>
 		<files></files>
 	</object>
 
-	<object id="LavaHomePlanetLow">
-		<name>Hell: Starting Planet</name>
+	<object id="LavaHomePlanet">
+		<name>Melty Molten: Starting Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
 		<preferredfile name="Obj" />
-		<notes>The planet used at the start of Hell Galaxy.</notes>
+		<notes>The planet used at the start of Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaHomePlanet.arc</files>
 	</object>
 
@@ -12624,25 +12608,25 @@ TODO: Does it have args?</notes>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="4" />
 		<preferredfile name="Obj" />
-		<notes>An alternate version of the falling rocks effect; used in Hell Galaxy.</notes>
+		<notes>An alternate version of the falling rocks effect; used in Melty Molten Galaxy.</notes>
 		<files></files>
 	</object>
 
 	<object id="LavaHomeVolcanoFlow">
-		<name>Hell: Volcano Eruption</name>
+		<name>Melty Molten: Volcano Eruption</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>The eruption effect used for the volcano in Hell Galaxy. (This object requires an SW_A switch to function.)</notes>
+		<notes>The eruption effect used for the volcano in Melty Molten Galaxy. (This object requires an SW_A switch to function.)</notes>
 		<files>/ObjectData/LavaHomeVolcanoFlow.arc</files>
 	</object>
 
 	<object id="LavaHomeVolcanoInnerFlow">
-		<name>Hell: Volcano Lava (Rising)</name>
+		<name>Melty Molten: Volcano Lava (Rising)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>The rising lava used inside the volcano in Hell Galaxy.</notes>
+		<notes>The rising lava used inside the volcano in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaHomeVolcanoInnerFlow.arc</files>
 	</object>
 
@@ -12710,11 +12694,11 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaObstacleRockHomeB">
-		<name>Hell: Falling Stone Rock (Version B)</name>
+		<name>Melty Molten: Falling Stone Rock (Version B)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="Obj" />
-		<notes>A falling stone platform used on the starting planet in Hell Galaxy.</notes>
+		<notes>A falling stone platform used on the starting planet in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaObstacleRockHomeB.arc</files>
 	</object>
 
@@ -12762,7 +12746,7 @@ TODO: Does it have args?</notes>
 		<flags games="3" needsPaths="0" known="1" complete="0" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A fire ball with a tail and no shadow; used in Hell Galaxy.</notes>
+		<notes>A fire ball with a tail and no shadow; used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaProminence.arc</files>
 		<field id="0" type="int" name="Unknown" values="" notes="" />
 		<field id="1" type="int" name="Unknown" values="" notes="" />
@@ -12770,20 +12754,20 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaRotatePlanet">
-		<name>Hell: Rotating Planet</name>
+		<name>Melty Molten: Rotating Planet</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
 		<preferredfile name="MapParts" />
-		<notes>The large rotating planet used in the third mission of Hell Galaxy.</notes>
+		<notes>The large rotating planet used in the third mission of Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaRotatePlanet.arc</files>
 	</object>
 
 	<object id="LavaRotatePlanetStartStep">
-		<name>Hell: Rotating Planet (Fixed Platform)</name>
+		<name>Melty Molten: Rotating Planet (Fixed Platform)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>The stationary platform used on the rotating platform in Hell Galaxy.</notes>
+		<notes>The stationary platform used on the rotating platform in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaRotatePlanetStartStep.arc</files>
 	</object>
 
@@ -12797,38 +12781,38 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaRotateStepsRotatePartsA">
-		<name>Hell: Rotating Platforms (Red)</name>
+		<name>Melty Molten: Rotating Platforms (Red)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A set of red rotating platforms used in Hell Galaxy.</notes>
+		<notes>A set of red rotating platforms used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaRotateStepsRotatePartsA.arc</files>
 	</object>
 
 	<object id="LavaRotateStepsRotatePartsB">
-		<name>Hell: Rotating Platforms (Blue)</name>
+		<name>Melty Molten: Rotating Platforms (Blue)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A set of blue rotating platforms used in Hell Galaxy.</notes>
+		<notes>A set of blue rotating platforms used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaRotateStepsRotatePartsB.arc</files>
 	</object>
 
 	<object id="LavaRotateStepsRotatePartsC">
-		<name>Hell: Rotating Platforms (Green)</name>
+		<name>Melty Molten: Rotating Platforms (Green)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A set of green rotating platforms used in Hell Galaxy.</notes>
+		<notes>A set of green rotating platforms used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaRotateStepsRotatePartsC.arc</files>
 	</object>
 
 	<object id="LavaRotateStepsRotatePartsD">
-		<name>Hell: Rotating Platforms (Yellow)</name>
+		<name>Melty Molten: Rotating Platforms (Yellow)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="2" />
 		<preferredfile name="MapParts" />
-		<notes>A set of yellow rotating platforms used in Hell Galaxy.</notes>
+		<notes>A set of yellow rotating platforms used in Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaRotateStepsRotatePartsD.arc</files>
 	</object>
 
@@ -12887,20 +12871,20 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="LavaSpaceStickA">
-		<name>Hell: Lava Rock (Version A)</name>
+		<name>Melty Molten: Lava Rock (Version A)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A lava rock used in the background of Hell Galaxy.</notes>
+		<notes>A lava rock used in the background of Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaSpaceStickA.arc</files>
 	</object>
 
 	<object id="LavaSpaceStickB">
-		<name>Hell: Lava Rock (Version B)</name>
+		<name>Melty Molten: Lava Rock (Version B)</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A lava rock used in the background of Hell Galaxy.</notes>
+		<notes>A lava rock used in the background of Melty Molten Galaxy.</notes>
 		<files>/ObjectData/LavaSpaceStickB.arc</files>
 	</object>
 
@@ -12990,7 +12974,7 @@ TODO: Does it have args?</notes>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="1" />
 		<preferredfile name="Obj" />
-		<notes>A transparent planet used in both Hell Galaxy and Snow Cap Galaxy.</notes>
+		<notes>A transparent planet used in both Melty Molten Galaxy and Snow Cap Galaxy.</notes>
 		<files>/ObjectData/LavaTransparentPlanet.arc</files>
 	</object>
 
@@ -14035,7 +14019,7 @@ TODO: Does it have args?</notes>
 		<flags games="3" needsPaths="0" known="1" complete="0" />
 		<category id="3" />
 		<preferredfile name="Obj" />
-		<notes>A meteor used in several galaxies, including Hell Galaxy (SMG1) and Hightail Falls Galaxy (SMG2).</notes>
+		<notes>A meteor used in several galaxies, including Melty Molten Galaxy (SMG1) and Hightail Falls Galaxy (SMG2).</notes>
 		<files>/ObjectData/MeteorStrike.arc
 /ObjectData/MeteorStrikeBreak.arc
 /ObjectData/MeteorStrikeLauncher.arc</files>
@@ -14068,171 +14052,171 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniBattleShipGalaxy">
-		<name>Battlerock Galaxy Icon</name>
+		<name>MiniBattleShipGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniBreakDownPlanetGalaxy">
-		<name>Hurry-Scurry Galaxy Icon</name>
+		<name>MiniBreakDownPlanetGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniCannonFleetGalaxy">
-		<name>Dreadnought Galaxy Icon</name>
+		<name>MiniCannonFleetGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniCosmosGardenGalaxy">
-		<name>Gusty Garden Galaxy Icon</name>
+		<name>MiniCosmosGardenGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniCubeBubbleExLv1Galaxy">
-		<name>Bubble Breeze Galaxy Icon</name>
+		<name>MiniCubeBubbleExLv1Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniDarkRoomGalaxy">
-		<name>Matter Splatter Galaxy Icon</name>
+		<name>MiniDarkRoomGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniEggStarGalaxy">
-		<name>Good Egg Galaxy Icon</name>
+		<name>MiniEggStarGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniFactoryGalaxy">
-		<name>Toy Time Galaxy Icon</name>
+		<name>MiniFactoryGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniFlipPanelExGalaxy">
-		<name>Flipswitch Galaxy Icon</name>
+		<name>MiniFlipPanelExGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniFloaterOtaKingGalaxy">
-		<name>Bowser Jr.'s Lava Reactor Galaxy Reactor Icon</name>
+		<name>MiniFloaterOtaKingGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHeavenlyBeachGalaxy">
-		<name>Beach Bowl Galaxy Icon</name>
+		<name>MiniHeavenlyBeachGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHellProminenceGalaxy">
-		<name>Melty Molten Galaxy Icon</name>
+		<name>MiniHellProminenceGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHoneyBeeExGalaxy">
-		<name>Honeyclimb Galaxy Icon</name>
+		<name>MiniHoneyBeeExGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniHoneyBeeKingdomGalaxy">
-		<name>Honeyhive Galaxy Icon</name>
+		<name>MiniHoneyBeeKingdomGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniIceVolcanoGalaxy">
-		<name>Freezeflame Galaxy Icon</name>
+		<name>MiniIceVolcanoGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaBattleVs1Galaxy">
-		<name>Bowser's Star Reactor Icon</name>
+		<name>MiniKoopaBattleVs1Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaBattleVs2Galaxy">
-		<name>Bowser's Dark Matter Plant Icon</name>
+		<name>MiniKoopaBattleVs2Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaBattleVs3Galaxy">
-		<name>Bowser's Galaxy Reactor Icon</name>
+		<name>MiniKoopaBattleVs3Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniKoopaJrShipLv1Galaxy">
-		<name>Bowser Jr's Airship Armada Icon</name>
+		<name>MiniKoopaJrShipLv1Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -14275,7 +14259,7 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniMechaKoopaPlanet">
-		<name>Toy Time: Mechakoopa Planet</name>
+		<name>MiniMechaKoopaPlanet</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
 		<category id="255" />
 		<preferredfile name="Obj" />
@@ -14284,36 +14268,36 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniOceanFloaterLandGalaxy">
-		<name>Buoy Base Galaxy Icon</name>
+		<name>MiniOceanFloaterLandGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniOceanPhantomCaveGalaxy">
-		<name>Deep Dark Galaxy Icon</name>
+		<name>MiniOceanPhantomCaveGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniOceanRingGalaxy">
-		<name>Sea Slide Galaxy Icon</name>
+		<name>MiniOceanRingGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniPhantomGalaxy">
-		<name>Ghostly Galaxy Icon</name>
+		<name>MiniPhantomGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -14356,63 +14340,63 @@ TODO: Does it have args?</notes>
 	</object>
 
 	<object id="MiniReverseKingdomGalaxy">
-		<name>Goldleaf Galaxy Icon</name>
+		<name>MiniReverseKingdomGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniSandClockGalaxy">
-		<name>Dusty Dune Galaxy Icon</name>
+		<name>MiniSandClockGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniSkullSharkGalaxy">
-		<name>Bonefin Galaxy Icon</name>
+		<name>MiniSkullSharkGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniStarDustGalaxy">
-		<name>Space Junk Galaxy Icon</name>
+		<name>MiniStarDustGalaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniSurfingLv1Galaxy">
-		<name>Loopdeeloop Galaxy Icon</name>
+		<name>MiniSurfingLv1Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniTamakoroExLv1Galaxy">
-		<name>Rolling Green Galaxy Icon</name>
+		<name>MiniTamakoroExLv1Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
 	</object>
 
 	<object id="MiniTriLegLv1Galaxy">
-		<name>Bowser Jr.'s Robot Reactor Icon</name>
+		<name>MiniTriLegLv1Galaxy</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="21" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20125,16 +20109,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarEggRoadEggPlanetA">
 		<name>StarEggRoadEggPlanetA</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="1" />
-		<preferredfile name="Obj" />
-		<notes></notes>
-		<files></files>
-	</object>
-	
-	<object id="StarEggRoadEggPlanetALow">
-		<name>StarEggRoadEggPlanetALow</name>
-		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="17" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20143,16 +20118,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarEggRoadEggPlanetB">
 		<name>StarEggRoadEggPlanetB</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="1" />
-		<preferredfile name="Obj" />
-		<notes></notes>
-		<files></files>
-	</object>
-	
-	<object id="StarEggRoadEggPlanetBLow">
-		<name>StarEggRoadEggPlanetBLow</name>
-		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id"17" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20161,16 +20127,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarEggRoadEggPlanetC">
 		<name>StarEggRoadEggPlanetC</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="1" />
-		<preferredfile name="Obj" />
-		<notes></notes>
-		<files></files>
-	</object>
-	
-	<object id="StarEggRoadEggPlanetCLow">
-		<name>StarEggRoadEggPlanetCLow</name>
-		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="17" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20179,16 +20136,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarEggRoadEggPlanetD">
 		<name>StarEggRoadEggPlanetD</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="1" />
-		<preferredfile name="Obj" />
-		<notes></notes>
-		<files></files>
-	</object>
-	
-	<object id="StarEggRoadEggPlanetDLow">
-		<name>StarEggRoadEggPlanetDLow</name>
-		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="17" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20197,16 +20145,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarEggRoadPlanet">
 		<name>StarEggRoadPlanet</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="1" />
-		<preferredfile name="Obj" />
-		<notes></notes>
-		<files></files>
-	</object>
-	
-	<object id="StarEggRoadPlanetLow">
-		<name>StarEggRoadPlanetLow</name>
-		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="17" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20224,7 +20163,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 	<object id="StarManFort">
 		<name>StarManFort</name>
 		<flags games="1" needsPaths="0" known="0" complete="0" />
-		<category id="15" />
+		<category id="255" />
 		<preferredfile name="Obj" />
 		<notes></notes>
 		<files></files>
@@ -20649,7 +20588,7 @@ Camera Amount: In the Camera settings for the Galaxy/Zone, you may find e:Scenar
 
 	<object id="SuperSpinDriver">
 		<name>Launch Star</name>
-		<flags games="3" needsPaths="0" known="1" complete="0" />
+		<flags games="3" needsPaths="1" known="1" complete="0" />
 		<category id="254" />
 		<preferredfile name="Obj" />
 		<notes>A large orange star that launches Mario/Luigi from one planet to another. (This object requires paths.)</notes>
@@ -23518,11 +23457,11 @@ It can have a path for follow a path (obviously) like in Sky Station Galaxy.</no
 	</object>
 
 	<object id="VRSandwichSun">
-		<name>Hell: Sky Model</name>
+		<name>Melty Molten: Sky Model</name>
 		<flags games="3" needsPaths="0" known="1" complete="1" />
 		<category id="5" />
 		<preferredfile name="Obj" />
-		<notes>The sky model used in Hell Galaxy</notes>
+		<notes>The sky model used in Melty Molten Galaxy</notes>
 		<files>/ObjectData/VRSandwichSun.arc</files>
 	</object>
 
