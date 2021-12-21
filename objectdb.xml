@@ -3,27 +3,27 @@
 <database timestamp="1540641993">
 
 	<categories>
-		<category id="255">Uncategorized</category>
 		<category id="1">Planets</category>
 		<category id="2">Platforms</category>
-		<category id="5">Skies</category>
-		<category id="6">Airs</category>
 		<category id="3">Decorations</category>
 		<category id="4">Effects</category>
+		<category id="5">Skies</category>
+		<category id="6">Airs</category>
 		<category id="7">Enemies</category>
 		<category id="8">Bosses</category>
-		<category id="10">NPCs</category>
 		<category id="9">Items</category>
+		<category id="10">NPCs</category>
 		<category id="11">Destroyable</category>
 		<category id="12">Areas</category>
+		<category id="13">Controllers</category>
+		<category id="14">Deprecated / Useless</category>
 		<category id="200">Gravity</category>
 		<category id="201">Cameras &amp; Cutscenes</category>
-		<category id="13">Controllers</category>
 		<category id="210">Comet Observatory</category>
 		<category id="211">Starship Mario</category>
 		<category id="212">Minigames</category>
 		<category id="254">Other</category>
-		<category id="14">Deprecated / Useless</category>
+		<category id="255">Uncategorized</category>
 	</categories>
 
 	<object id="2DGhostTowerPlanet">
